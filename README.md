@@ -5,7 +5,7 @@
 I'm a developer with experience in JavaScript and some knowledge of Java. Passionate about creating solutions and exploring new technologies. Always eager to learn and improve my skills in discord bot development, plugins for minecraft and others.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7FDhyxKkcK) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@m4ks1u) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@m4ks1u) 
 
 ## 📞 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/193503943504953344)
